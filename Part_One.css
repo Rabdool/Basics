@@ -1,0 +1,22 @@
+/* Selected tag {
+    property: value;
+} */
+
+body {
+    background: url("b.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+
+div {
+    color: red;
+}
+
+h2 {
+    color: orange;
+}
+
+table {
+    color: darkgreen;
+}
